@@ -6,6 +6,13 @@ import cn.hxzy.pojo.ItemsQueryVo;
 
 
 
+
+
+
+
+
+
+
 public interface ItemsService {
 	public List<ItemsCustom> findItemsList(ItemsQueryVo itemsQueryVo) throws Exception;
 	
